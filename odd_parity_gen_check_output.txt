@@ -1,0 +1,85 @@
+1.
+Bit value of a: 1
+Bit value of b: 1
+Bit value of c: 1
+
+********************* The Parity Bit Generator ********************
+The parity bit generated is 0
+*******************************************************************
+
+Enter the value of transmitted parity value to receiver: 0
+
+******************* Odd Parity Checker **********************
+No Error!
+There are odd no. of 1s in received message
+*************************************************************
+
+
+
+2.
+Bit value of a: 0
+Bit value of b: 0
+Bit value of c: 0
+
+********************* The Parity Bit Generator ********************
+The parity bit generated is 1
+*******************************************************************
+
+Enter the value of transmitted parity value to receiver: 0
+
+******************* Odd Parity Checker **********************
+Error!!!!
+There are even no. of 1s in received message
+*************************************************************
+
+
+3.
+Bit value of a: 1
+Bit value of b: 0
+Bit value of c: 1
+
+********************* The Parity Bit Generator ********************
+The parity bit generated is 1
+*******************************************************************
+
+Enter the value of transmitted parity value to receiver: 1
+
+******************* Odd Parity Checker **********************
+No Error!
+There are odd no. of 1s in received message
+*************************************************************
+
+
+4.
+Bit value of a: 1
+Bit value of b: 1
+Bit value of c: 0
+
+********************* The Parity Bit Generator ********************
+The parity bit generated is 1
+*******************************************************************
+
+Enter the value of transmitted parity value to receiver: 0
+
+******************* Odd Parity Checker **********************
+Error!!!!
+There are even no. of 1s in received message
+*************************************************************
+
+
+
+5.
+Bit value of a: 0
+Bit value of b: 0
+Bit value of c: 1
+
+********************* The Parity Bit Generator ********************
+The parity bit generated is 0
+*******************************************************************
+
+Enter the value of transmitted parity value to receiver: 1
+
+******************* Odd Parity Checker **********************
+Error!!!!
+There are even no. of 1s in received message
+*************************************************************
